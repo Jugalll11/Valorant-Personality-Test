@@ -1,6 +1,6 @@
 # val_personality_test
 
-This app lets you answe a quiz and based on the answers it tells you how dogshit you are
+This app lets you answe a quiz and based on the answers it tells you how you like to play Valorant
 
 ## Getting Started
 
